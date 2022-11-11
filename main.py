@@ -1,10 +1,8 @@
 import discord
-import os
 import youtube_dl
 from discord.ext import commands
 from replit import db
 from keep_alive import keep_alive
-import asyncio
 queue = []
 x = 1
 y = 0
